@@ -1,0 +1,27 @@
+                   TAX INVOICE
+                ORIGINAL RECEIPT
+                 ORDER NUMBER 19
+                 AHODWO BRANCH
+                PHONE: 0556061647
+
+              RECEIPT NUMBER: 16653
+                |AG0228/5578/9965
+                TIN: C0029854564
+              Sales Person's: Sam
+              Payment Method: Cash
+-----------------------------------------------
+ITEM        QTY            RATE          TOTAL
+Weed         4             29            116
+-----------------------------------------------
+Subtotal:                                116
+Discount(15%):                          17.4
+Tax(0.5%):                             0.58
+Covid-19 Tax(0.1%):                    0.116
+Service Charge(0.2%):                  0.232
+Net Total:                             99.528
+-----------------------------------------------
+            THANK YOU FOR BUYING FROM US
+                  REACH OUT TO US
+
+END OF ORDER
+
